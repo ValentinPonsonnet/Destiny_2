@@ -19,7 +19,7 @@ dimwishlist:item=1664372054&perks=1300023272,679225683,2360754333,1631667848
 dimwishlist:item=3341893443&perks=3661387068,3142289711,1820235745,4104185692
 
 // Krait
-// Corskscrew Rifling, Appended Mag, Overflow, Vorpal Weapon
+// (Corskscrew Rifling, Hammer-Forged Rifling),(Appended Mag, High-Caliber Rounds),Overflow, Vorpal Weapon
 dimwishlist:item=2852052802&perks=4090651448,1087426260,3643424744,1546637391
 
 @description:La saison "Réincarnés"
