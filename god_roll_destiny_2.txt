@@ -24,6 +24,9 @@ dimwishlist:item=2852052802&perks=3250034553,1561002382,1820235745,4049631843
 
 @description:La saison "Réincarnés"
 // Thoughtless(Pve roll)
-// Polygonal Rifling, Appended Mag, Overflow, (Focused Fury, Firing Line), Land Tank
+// Polygonal Rifling, Appended Mag, Overflow, Focused Fury, Land Tank
 dimwishlist:item=4067556514&perks=1392496348,1087426260,3643424744,2896038713
+
+// Thoughtless(Pve roll)
+// Polygonal Rifling, Appended Mag, Overflow, Firing Line, Land Tank
 dimwishlist:item=4067556514&perks=1392496348,1087426260,3643424744,1771339417
