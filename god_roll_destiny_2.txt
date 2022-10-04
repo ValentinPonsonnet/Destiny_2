@@ -13,6 +13,10 @@ dimwishlist:item=1887808042&perks=3250034553,806159697,106909392,588594999
 // Barrel Shroud, Light Mag, Trench Barrel, Grave Robber
 dimwishlist:item=1664372054&perks=1300023272,679225683,2360754333,1631667848
 
+// Kindeled Orchid
+//Hammer-Forged Rifling, Flared Magwell, Outlaw, Rampage
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1168162263,3425386926
+
 @description:DLC Witch Queen
 // Funnelweb
 // Chambered Composator, Accurized Rounds, Subsistence, Frenzy
