@@ -35,6 +35,10 @@ dimwishlist:item=2852052802&perks=3250034553,1561002382,1820235745,4049631843
 // Arrowhead Brake, Assault Mag, Demolitionist, Vorpal Weapon, Vangard's Vindication
 dimwishlist:item=2821430069&perks=839105230,791862061,3523296417,1546637391
 
+// Pizzicato-22
+// Corkcrew Rifling, Ricochet Rounds, Perpetual Motion, Rangefinder
+dimwishlist:item=4100775158&perks=4090651448,1885400500,1428297954,2846385770
+
 @description:"Saison des Réincarnés"
 // Thoughtless(Pve roll solo)
 // Polygonal Rifling, Appended Mag, Overflow, Focused Fury, Land Tank
