@@ -31,6 +31,10 @@ dimwishlist:item=3341893443&perks=3661387068,3142289711,1820235745,4104185692
 // Hammer-Forged Rifling, High-Caliber Rounds, Subsistence, One for All
 dimwishlist:item=2852052802&perks=3250034553,1561002382,1820235745,4049631843
 
+// Fortissimo- 11
+// Arrowhead Brake, Assault Mag, Demolitionist, Vorpal Weapon, Vangard's Vindication
+dimwishlist:item=2821430069&perks=839105230,791862061,3523296417,1546637391
+
 @description:"Saison des Réincarnés"
 // Thoughtless(Pve roll solo)
 // Polygonal Rifling, Appended Mag, Overflow, Focused Fury, Land Tank
